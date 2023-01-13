@@ -1,3 +1,3 @@
-# Whitelist Dapp
+# Whitelist DApp
 
-A whitelist dapp that gives early supporters access to a whitelist for a new NFT collection.
+A whitelist dApp that gives early supporters access to a whitelist for a new NFT collection.
