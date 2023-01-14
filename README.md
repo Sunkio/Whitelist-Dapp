@@ -30,7 +30,7 @@ git clone https://github.com/YOUR-USERNAME/Whitelist-Dapp
 
 ### 2.) Blockchain Part
 Run the following commands in your CLI:
-``shell
+``` shell
 cd Whitelist-Dapp/hardhat-tutorial
 npm init --yes
 npm install --save-dev hardhat
@@ -42,13 +42,13 @@ Create an endpoint on [QuickNode](https://www.quicknode.com/), or any other prov
 Create a .env file and follow the structure of the [.env-example file](hardhat-tutorial/.env-example) to add your QuickNode URL and your private key. DO NOT upload this file to Git Hub! It is already included in .gitignore but better double-check. 🙂
 
 Once you’re done editing, run:
-``
+``` shell
 npx hardhat compile 
 npx hardhat run scripts/deploy.js --network sepolia
 ```
 
 ### 3.) The Frontend Part
-The frontend is built with Next.js. You need to have [Node.js]() installed.
+The frontend is built with Next.js. You need to have [Node.js](https://nodejs.org/) installed.
 
 Run the following commands to set-up your project and start the development server:
 ``` shell
