@@ -86,7 +86,7 @@ Then change the value of the `abi` variable to your own ABI array. You can find 
 Contributions are always welcome! Please check the [Code of Conduct](https://github.com/Sunkio/.github/CODE_OF_CONDUCT.md) .
 
 ## License
-This project is licensed under the [MIT License]().
+This project is licensed under the [MIT License](./License.md).
 
 ## Support
 If you have any questions or need help getting started, please open an issue in the repository or contact me on Twitter: @tanja_codes
