@@ -44,7 +44,7 @@ Create a .env file and follow the structure of the [.env-example file](hardhat-t
 Once you’re done editing, run:
 ``
 npx hardhat compile 
-npx hardhat run scripts/deploy.js –network sepolia
+npx hardhat run scripts/deploy.js --network sepolia
 ```
 
 ### 3.) The Frontend Part
