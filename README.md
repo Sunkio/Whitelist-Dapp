@@ -1,6 +1,7 @@
 # Whitelist dApp
 
 A whitelist dApp that gives early supporters access to a whitelist for a new NFT collection. The first 10 requesters get access for free.
+This app was built for the Sophomore track at [LearnWeb3DAO](https://learnweb3.io/).
 
 You can check out the deployed testnet app here: https://whitelist-dapp-dsmd7zfa7-sunkio.vercel.app/
 
