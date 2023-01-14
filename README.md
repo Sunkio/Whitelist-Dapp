@@ -3,7 +3,6 @@
 A whitelist dApp that gives early supporters access to a whitelist for a new NFT collection. The first 10 requesters get access for free.
 
 You can check out the deployed testnet app here: https://whitelist-dapp-dsmd7zfa7-sunkio.vercel.app/
-https://whitelist-dapp-sunkio.vercel.app/
 
 ![Whitelist dApp Screenshot](wl-frontend/public/Whitelist-Dapp-Screenshot.png)
 
@@ -39,7 +38,7 @@ npm install dotenv
 ```
 
 Create an endpoint on [QuickNode](https://www.quicknode.com/), or any other provider of your choice, and copy the HTTP-URL.
-Create a .env file and follow the structure of the .env-example file to add your QuickNode URL and your private key. DO NOT upload this file to Git Hub! It is already included in .gitignore but better double-check. 🙂
+Create a .env file and follow the structure of the [.env-example file](hardhat-tutorial/.env-example) to add your QuickNode URL and your private key. DO NOT upload this file to Git Hub! It is already included in .gitignore but better double-check. 🙂
 
 Once you’re done editing, run:
 ``
