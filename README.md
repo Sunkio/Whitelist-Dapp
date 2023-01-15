@@ -6,6 +6,7 @@ This app was built for the Sophomore track at [LearnWeb3DAO](https://learnweb3.i
 You can check out the deployed testnet app here: https://whitelist-dapp-dsmd7zfa7-sunkio.vercel.app/
 
 ![Whitelist dApp Screenshot](wl-frontend/public/Whitelist-Dapp-Screenshot.png)
+For the Goerli testnet version, check [this repository](https://github.com/Sunkio/Whitelist-Dapp_Goerli).
 
 ## Details
 This whitelist dApp is a simple, decentralized application that allows users to create and manage a whitelist of approved Ethereum addresses. The whitelist can be configured to allow or deny access to certain functions or contracts based on whether an address is included in the whitelist. The application can also be modified to store and share sensitive data among a trusted group of addresses.
